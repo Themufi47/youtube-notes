@@ -205,3 +205,117 @@ Sadece "kötü şirket" demiyoruz; bağımlı bir adamdan → dünyayı yöneten
       > ## 🚀 SONRAKI BÖLÜM: ASA CANDLER VE İMPARATORLUK KURULUŞU (1888-1920)
       >
       > Sırada Wall Street'in en acımasız iş adamlarından biri: **Asa Candler**. Bir öksürük ilacı satıcısından nasıl küresel bir monarşa dönüştü?
+
+
+---
+
+# 🎬 BÖLÜM 2: İMPARATORLUĞUN İNŞASI (1900-1945)
+
+**Konsept:** Kaostan düzene geçiş, sanayileşme ve savaşın pazarlama aracına dönüşmesi.
+
+---
+
+## 🎬 SAHNE 1: YENİ KRAL VE TEMİZLİK (1892-1903)
+
+### 👁️ GÖRSEL (Video/Efekt):
+
+- Ekranda Tarih: Daktilo efektiyle **"1892"**
+- - Asa Candler'ın ofisi. Pemberton'ın dağınık notları çöpe atılıyor
+  - - Gazete manşetleri (Hızlı montaj): **"Kokain Tehlikesi"**, **"Toplumun Düşmanı"**
+    - - Candler'ın yüzünde endişeli bir ifade
+     
+      - ### 🔊 SES & MÜZİK:
+     
+      - **Müzik:** Saat gibi işleyen, ritmik ve mekanik bir müzik (Industrial Light)
+     
+      - **Seslendirme (VO):**
+     
+      - > "Yıl 1892. Pemberton ölmüş, formül artık Asa Candler adında takıntılı derecede titiz bir iş adamının eline geçmişti. Candler, şirketin 'Orta Çağını' başlatan adamdı. Ama önünde büyük bir sorun vardı: 1900'lere girerken toplum değişiyordu. İnsanlar artık 'iksirlerden' korkuyordu, özellikle de içinde kokain olanlardan.
+        > >
+        > >> Candler, şirketi kurtarmak için sessiz bir operasyon yürüttü. 1903 yılına gelindiğinde, formüldeki kokain tamamen çıkarıldı. Coca-Cola artık bir ilaç değil, sadece 'keyif' veren bir meşrubattı."
+        > >>
+        > >> ---
+        > >>
+        > >> ## 🎬 SAHNE 2: 1 DOLARLIK "APTALCA" ANLAŞMA (1899)
+        > >>
+        > >> ### 👁️ GÖRSEL (Video/Efekt):
+        > >>
+        > >> - **Ekranda Tarih:** **"1899"**
+        > >> - - İki avukat kılıklı adam (Benjamin Thomas ve Joseph Whitehead) Candler'ın ofisinde
+        > >>   - - Candler sıkılmış, elindeki kağıtları inceliyor
+        > >>     - - Ekranda bir harita: Sadece Atlanta'da yanan bir ışık var. İmza atılınca ışıklar tüm ABD'ye yayılıyor
+        > >>       - - Vurgu: Sözleşmedeki **"$1"** (Bir Dolar) rakamı
+        > >>        
+        > >>         - ### 🔊 SES & MÜZİK:
+        > >>        
+        > >>         - **Müzik:** Hafif alaycı, pling-plong tarzı bir "Business" müziği
+        > >>        
+        > >>         - **Seslendirme (VO):**
+        > >> 
+        > "Candler bir dahiydi ama geleceği okuyamıyordu. Ona göre insanlar kolayı sadece büfelerde, oturarak içmeliydi. 1899'da iki girişimci, 'Biz bunu şişeleyip satmak istiyoruz' dediğinde, Candler bunu bir angarya olarak gördü.
+        > >
+        > >> Başından savmak için şişeleme haklarını onlara devretti. Fiyatı mı? Sadece 1 dolar. Üstelik o 1 doları bile tahsil etmedi.
+        > >> >
+        > >> >> Bu, o gün için 'aptalca' bir hataydı. Ama ironik bir şekilde, Coca-Cola'yı dünya devi yapan şey bu hata oldu. Sistem, sahibinden daha akıllı çıkmıştı."
+        > >> >>
+        > >> >> ---
+        > >> >>
+        > >> >> ## 🎬 SAHNE 3: KARANLIKTA PARLAYAN ŞEKİL (1915)
+        > >> >>
+        > >> >> ### 👁️ GÖRSEL (Video/Efekt):
+        > >> >>
+        > >> >> - **Ekranda Tarih:** **"1915"**
+        > >> >> - - Raflar dolu taklit ürünler (Koka-Nola, Yum-Yum Cola). Hepsi birbirine benziyor
+        > >> >>   - - Bir tasarımcının eskiz defteri. Kakaonun (Cocoa) kıvrımlı meyvesi ile Koka (Coca) yaprağını karıştırdığı an
+        > >> >>     - - O ikonik şişenin (Contour Bottle) silüeti karanlıkta belirir
+        > >> >>      
+        > >> >>       - ### 🔊 SES & MÜZİK:
+        > >> >>      
+        > >> >>       - **Müzik:** Caz havasında, daha estetik ve "Sanatsal" bir ton
+        > >> >>      
+        > >> >>       - **Seslendirme (VO):**
+        > >> >> 
+        > "1915'e gelindiğinde ortalık savaş alanıydı. Herkes Coca-Cola'yı taklit ediyordu. Şirketin bir kimliğe ihtiyacı vardı. Yöneticiler tasarımcılara tek bir emir verdi: 'Bize öyle bir şişe yapın ki, karanlıkta dokunduğumuzda, hatta kırıldığında bile onun Coca-Cola olduğunu anlayalım.'
+        > >
+        > >> Tasarımcılar kütüphaneye koştu ama bir yazım hatası yaptılar. 'Coca' yaprağı yerine, yanlışlıkla 'Kakao' (Cocoa) meyvesinin şeklini baz aldılar. O yanlışlık; bugün dünyanın en çok tanınan objelerinden birini, o kıvrımlı ikonik şişeyi yarattı."
+        > >>
+        > >> ---
+        > >>
+        > >> ## 🎬 SAHNE 4: DÜNYA SAVAŞI VE GLOBAL VİZYON (1941-1945)
+        > >>
+        > >> ### 👁️ GÖRSEL (Video/Efekt):
+        > >>
+        > >> - **Ekranda Tarih:** **"1941"**
+        > >> - - Yeni Patron: **Robert Woodruff**. Elinde purosuyla dünya haritasına bakıyor
+        > >>   - - Pearl Harbor saldırısı haberleri → Hemen ardından Coca-Cola kamyonlarının askeri gemilere yüklenmesi
+        > >>     - - General Eisenhower'ın fotoğrafı ve askerlerin cephede kola içtiği gerçek görüntüler
+        > >>       - - Final Karesi: Yıkılmış bir Avrupa şehrinde, Coca-Cola tabelasının sapasağlam durması
+        > >>        
+        > >>         - ### 🔊 SES & MÜZİK:
+        > >>        
+        > >>         - **Müzik:** Müziğin tonu ciddileşir. Epik, orkestral ve askeri bir marş yükselir
+        > >>        
+        > >>         - **Seslendirme (VO):**
+        > >> 
+        > "Ancak şirketi bir Amerikan markasından, bir 'Dünya İmparatorluğuna' dönüştüren şey II. Dünya Savaşı oldu. Şirketin yeni lideri Robert Woodruff, savaşı bir trajedi değil, bir lojistik fırsat olarak gördü.
+        > >
+        > >> General Eisenhower'a bir söz verdi: 'Üniformasını giyen her Amerikan askeri, dünyanın neresinde olursa olsun, 5 cente bir şişe Coca-Cola bulabilecek.'
+        > >> >
+        > >> >> Bu söz, Amerikan ordusunu şirketin bedava dağıtım ağına çevirdi. Fabrikalar cephenin hemen arkasına kuruldu. Savaş bittiğinde dumanlar dağıldı; geriye yıkılmış şehirler ve her köşe başında parlayan kırmızı tabelalar kaldı. Coca-Cola artık bir içecek değil, kazanan tarafın bayrağıydı."
+        > >> >>
+        > >> >> ---
+        > >> >>
+        > >> >> ## ✅ BÖLÜM 2 ÖZETİ
+        > >> >>
+        > >> >> | Tarih | Olay | Etki |
+        > >> >> |-------|------|------|
+        > >> >> | **1892** | Asa Candler devresi başlıyor, kokain çıkarılıyor | Meşrubat haline dönüşüm |
+        > >> >> | **1899** | $1 şişeleme anlaşması (Thomas & Whitehead) | Ulusal dağıtım ağı kurulması |
+        > >> >> | **1915** | Contour Bottle ikonik şişesi tasarlanıyor | Markalaşma tamamlanıyor |
+        > >> >> | **1941-1945** | Robert Woodruff, WWII stratejisi (5¢ her askere) | Küresel imparatorluk kurulması |
+        > >> >>
+        > >> >> ---
+        > >> >>
+        > >> >> ## 🚀 SONRAKI BÖLÜM: SU SAVAŞLARI (KARANLıK YÜZ)
+        > >> >>
+        > >> >> Şimdi imparatorluğun karanlık tarafını göreceksiniz...
