@@ -28,7 +28,7 @@ Premiere'i açmadan önce bilgisayarında düzenli olmalısın. Yoksa o yüzlerc
                                        
                                         10. 1. Sağ taraftaki boşluğa (Timeline) 1_SES klasöründeki seslendirme dosyanı sürükle bırak
                                             2. 2. Klavyeden (+) tuşuna basarak zaman çizelgesine yaklaş (Zoom in)
-                                               3. 3. Sesin dalgalarına bak. Konuşmadığı boşluklar (nefes payları) varsa, oraları C tuşuna (Razor Tool - Jilet) basıp kes. Aradaki boş parçayı seç ve Delete ile sil
+                                               3. 3. Sesin dalgalarına bak. Konuşmadığı boşluklar (nefes payları) varsa, oraları C tuşuna (Razor Tool) basıp kes. Aradaki boş parçayı seç ve Delete ile sil
                                                   4. 4. Kalan parçaları birbirine yaklaştır
                                                      5. 5. Şimdi 2_MUZIK klasöründen bir müzik alıp, ses dosyasının altındaki kanala (A2) sürükle
                                                        
@@ -51,79 +51,77 @@ Premiere'i açmadan önce bilgisayarında düzenli olmalısın. Yoksa o yüzlerc
                                                         14. 1. Timeline'da V1 kanalına (En alt) Eczane Arka Planını koy
                                                             2. 2. Onun üstüne V2 kanalına Pemberton'ın kesilmiş PNG halini koy
                                                                3. 3. Üstteki Pemberton'a tıkla. Sol üstte Effect Controls paneline git
-                                                                  4. 4. Orada Scale (Boyut) yazısını bul:
-                                                                     5.    - Videonun en başına gel (fotoğrafın başladığı yere). Scale yanındaki kronometre ikonuna (Toggle Animation) tıkla. Bu ilk noktayı koyar. (Örn: Değer 100 olsun)
-                                                                           -    - Fotoğrafın bittiği yere git. Scale değerini 110 yap
-                                                                                - 5. Şimdi oynat. Adam yavaşça sana doğru yaklaşıyor değil mi?
-                                                                                  6. 6. Aynısını alttaki arka plan için yap ama tersini yap (100'den 90'a düşür)
-                                                                                     7. 7. Sonuç: Adam büyürken oda küçülüyor. İnanılmaz bir 3 boyut hissi oluştu!
-                                                                                       
-                                                                                        8. ---
-                                                                                       
-                                                                                        9. ## 📰 BÖLÜM 4: BELGE VURGULAMA (HIGHLIGHTER EFEKTİ)
-                                                                                       
-                                                                                        10. 10-K Raporundaki "Obezite Riski" yazısını fosforlu kalemle çizer gibi göstermek.
-                                                                                       
-                                                                                        11. 1. Raporun resmini Timeline'a koy
-                                                                                            2. 2. Sol üst menüden File > New > Color Matte seç
-                                                                                               3. 3. Açılan renkten Parlak Sarı seç. "Tamam" de
-                                                                                                  4. 4. Bu sarı katmanı, rapor resminin üstüne (V2 veya V3) koy
-                                                                                                     5. 5. Sarı katmana tıkla. Effect Controls paneline gel
-                                                                                                        6. 6. Opacity (Opaklık) başlığı altındaki Blend Mode'u "Normal"den "Multiply"a çevir. (Sarı renk şeffaflaşacak, yazı alttan okunacak)
-                                                                                                           7. 7. Yine Effect Controls'te Scale ve Position ile o sarı şeridi incelt ve tam cümlenin üzerine getir
-                                                                                                              8. 8. Şimdi hareketlendirelim:
-                                                                                                                 9.    - Sağdaki Effects paneline (Arama kutusuna) "Crop" yaz. Çıkan efekti sarı şeridin üzerine sürükle
-                                                                                                                       -    - Effect Controls'te Crop ayarlarını bul. "Right" (Sağ) yazan yerin kronometresine tıkla
-                                                                                                                            -    - Başlangıçta değeri %100 yap (Sarı şerit yok olur)
-                                                                                                                                 -    - Biraz ileri git, değeri %0 yap (Sarı şerit soldan sağa açılır)
-                                                                                                                                      -    - İşte bu kadar! Yazı çizilerek vurgulandı.
-                                                                                                                                       
-                                                                                                                                           - ---
-                                                                                                                                           
-                                                                                                                                           ## 🎞️ BÖLÜM 5: ESKİ FİLM GÖRÜNÜMÜ (ATMOSFER)
-                                                                                                                                           
-                                                                                                                                           Videomuz "dijital" değil, "eski ve kirli" durmalı.
-                                                                                                                                           
-                                                                                                                                           1. İnternetten indirdiğin "Paper Texture" (Kağıt dokusu) veya "Film Grain" (Karıncalanma) videosunu al
-                                                                                                                                           2. 2. Timeline'ın EN ÜSTÜNE (Hepsini örtecek şekilde) koy
-                                                                                                                                              3. 3. Ona tıkla -> Effect Controls -> Opacity -> Blend Mode
-                                                                                                                                                 4. 4. Bunu "Overlay" veya "Screen" yap
-                                                                                                                                                    5. 5. Opaklığını (Opacity) %30-40 civarına düşür
-                                                                                                                                                       6. 6. Artık tüm videonun üzerinde hafif bir doku var, çok daha profesyonel duruyor
-                                                                                                                                                         
-                                                                                                                                                          7. ---
-                                                                                                                                                         
-                                                                                                                                                          8. ## 🎚️ BÖLÜM 6: SES MİKSAJI (AUTO DUCKING)
-                                                                                                                                                         
-                                                                                                                                                          9. Sesin konuşurken müziğin otomatik kısılması.
-                                                                                                                                                         
-                                                                                                                                                          10. 1. Üstteki menüden "Audio" sekmesine tıkla (Workspace değişecek)
-                                                                                                                                                              2. 2. Sağda Essential Sound paneli açılacak
-                                                                                                                                                                 3. 3. Timeline'daki tüm Seslendirme (Konuşma) dosyalarını seç. Panelden "Dialogue" butonuna bas
-                                                                                                                                                                    4. 4. Timeline'daki tüm Müzik dosyalarını seç. Panelden "Music" butonuna bas
-                                                                                                                                                                       5. 5. Müzik seçiliyken panelde "Ducking" kutucuğunu işaretle
-                                                                                                                                                                          6. 6. Aşağıdaki "Generate Keyframes" butonuna bas
-                                                                                                                                                                             7. 7. Premiere, konuşmanın olduğu yerlerde müziğin sesini otomatik kısacak. Dinle, gerekirse "Sensitivity" ayarıyla oyna
-                                                                                                                                                                               
-                                                                                                                                                                                8. ---
-                                                                                                                                                                               
-                                                                                                                                                                                9. ## 🧈 BÖLÜM 7: YAĞ GİBİ HAREKETLER (EASE IN/OUT)
-                                                                                                                                                                               
-                                                                                                                                                                                10. Resimler sağa sola kayarken robot gibi durmasın.
-                                                                                                                                                                               
-                                                                                                                                                                                11. 1. Yaptığın herhangi bir animasyonda (Scale, Position vb.) Effect Controls panelindeki o küçük elmaslara (Keyframe) bak
-                                                                                                                                                                                    2. 2. İlk elmasa Sağ Tıkla -> Temporal Interpolation -> Ease Out
-                                                                                                                                                                                       3. 3. Son elmasa Sağ Tıkla -> Temporal Interpolation -> Ease In
-                                                                                                                                                                                          4. 4. Bu işlem, hareketin yavaş başlayıp hızlanmasını ve yavaşça durmasını sağlar. Profesyonel görünmenin en büyük sırrı budur
+                                                                  4. 4. Orada Scale (Boyut) yazısını bul
+                                                                     5. 5. Videonun en başına gel. Scale yanındaki kronometre ikonuna tıkla. (Örn: Değer 100 olsun)
+                                                                        6. 6. Fotoğrafın bittiği yere git. Scale değerini 110 yap
+                                                                           7. 7. Şimdi oynat. Adam yavaşça sana doğru yaklaşıyor değil mi?
+                                                                              8. 8. Aynısını alttaki arka plan için yap ama tersini yap (100'den 90'a düşür)
+                                                                                 9. 9. Sonuç: Adam büyürken oda küçülüyor. 3 boyut hissi oluştu!
+                                                                                   
+                                                                                    10. ---
+                                                                                   
+                                                                                    11. ## 📰 BÖLÜM 4: BELGE VURGULAMA (HIGHLIGHTER EFEKTİ)
+                                                                                   
+                                                                                    12. 10-K Raporundaki "Obezite Riski" yazısını fosforlu kalemle çizer gibi göstermek.
+                                                                                   
+                                                                                    13. 1. Raporun resmini Timeline'a koy
+                                                                                        2. 2. Sol üst menüden File > New > Color Matte seç
+                                                                                           3. 3. Açılan renkten Parlak Sarı seç. "Tamam" de
+                                                                                              4. 4. Bu sarı katmanı, rapor resminin üstüne (V2 veya V3) koy
+                                                                                                 5. 5. Sarı katmana tıkla. Effect Controls paneline gel
+                                                                                                    6. 6. Opacity başlığı altındaki Blend Mode'u "Normal"den "Multiply"a çevir
+                                                                                                       7. 7. Yine Effect Controls'te Scale ve Position ile o sarı şeridi incelt ve tam cümlenin üzerine getir
+                                                                                                          8. 8. Hareketlendir: Sağdaki Effects paneline "Crop" yaz. Efekti sürükle
+                                                                                                             9. 9. Crop ayarlarını bul. "Right" yazan yerin kronometresine tıkla
+                                                                                                                10. 10. Başlangıçta %100 yap. Biraz ileri git, %0 yap
+                                                                                                                    11. 11. Yazı çizilerek vurgulandı. Bitti!
+                                                                                                                       
+                                                                                                                        12. ---
+                                                                                                                       
+                                                                                                                        13. ## 🎞️ BÖLÜM 5: ESKİ FİLM GÖRÜNÜMÜ (ATMOSFER)
+                                                                                                                       
+                                                                                                                        14. Videomuz "dijital" değil, "eski ve kirli" durmalı.
+                                                                                                                       
+                                                                                                                        15. 1. İnternetten indirdiğin "Paper Texture" veya "Film Grain" videosunu al
+                                                                                                                            2. 2. Timeline'ın EN ÜSTÜNE (Hepsini örtecek şekilde) koy
+                                                                                                                               3. 3. Ona tıkla - Effect Controls - Opacity - Blend Mode
+                                                                                                                                  4. 4. Bunu "Overlay" veya "Screen" yap
+                                                                                                                                     5. 5. Opaklığını %30-40 civarına düşür
+                                                                                                                                        6. 6. Artık tüm videonun üzerinde hafif doku var, çok daha profesyonel duruyor
+                                                                                                                                          
+                                                                                                                                           7. ---
+                                                                                                                                          
+                                                                                                                                           8. ## 🎚️ BÖLÜM 6: SES MİKSAJI (AUTO DUCKING)
+                                                                                                                                          
+                                                                                                                                           9. Sesin konuşurken müziğin otomatik kısılması.
+                                                                                                                                          
+                                                                                                                                           10. 1. Üstteki menüden "Audio" sekmesine tıkla
+                                                                                                                                               2. 2. Sağda Essential Sound paneli açılacak
+                                                                                                                                                  3. 3. Tüm Seslendirme dosyalarını seç. Panelden "Dialogue" butonuna bas
+                                                                                                                                                     4. 4. Tüm Müzik dosyalarını seç. Panelden "Music" butonuna bas
+                                                                                                                                                        5. 5. Müzik seçiliyken "Ducking" kutucuğunu işaretle
+                                                                                                                                                           6. 6. "Generate Keyframes" butonuna bas
+                                                                                                                                                              7. 7. Premiere, konuşmanın olduğu yerlerde müziğin sesini otomatik kısacak
+                                                                                                                                                                
+                                                                                                                                                                 8. ---
+                                                                                                                                                                
+                                                                                                                                                                 9. ## 🧈 BÖLÜM 7: YAĞ GİBİ HAREKETLER (EASE IN/OUT)
+                                                                                                                                                                
+                                                                                                                                                                 10. Resimler sağa sola kayarken robot gibi durmasın.
+                                                                                                                                                                
+                                                                                                                                                                 11. 1. Yaptığın herhangi bir animasyonda Effect Controls panelindeki elmaslara (Keyframe) bak
+                                                                                                                                                                     2. 2. İlk elmasa Sağ Tıkla - Temporal Interpolation - Ease Out
+                                                                                                                                                                        3. 3. Son elmasa Sağ Tıkla - Temporal Interpolation - Ease In
+                                                                                                                                                                           4. 4. Hareketin yavaş başlayıp hızlanması ve yavaşça durması sağlanır. Bu profesyonel görünmenin sırrı!
+                                                                                                                                                                             
+                                                                                                                                                                              5. ---
+                                                                                                                                                                             
+                                                                                                                                                                              6. ## 💾 SON ADIM: KAYDET VE ÇIKTI AL
+                                                                                                                                                                             
+                                                                                                                                                                              7. 1. Projeni sık sık kaydet (CTRL + S)
+                                                                                                                                                                                 2. 2. Bittiğinde File > Export > Media de
+                                                                                                                                                                                    3. 3. Format: H.264
+                                                                                                                                                                                       4. 4. Preset: YouTube 1080p Full HD
+                                                                                                                                                                                          5. 5. Export butonuna bas
                                                                                                                                                                                             
-                                                                                                                                                                                             5. ---
-                                                                                                                                                                                            
-                                                                                                                                                                                             6. ## 💾 SON ADIM: KAYDET VE ÇIKTI AL
-                                                                                                                                                                                            
-                                                                                                                                                                                             7. 1. Projeni sık sık kaydet (**CTRL + S**)
-                                                                                                                                                                                                2. 2. Bittiğinde File > Export > Media de
-                                                                                                                                                                                                   3. 3. Format: H.264
-                                                                                                                                                                                                      4. 4. Preset: YouTube 1080p Full HD
-                                                                                                                                                                                                         5. 5. Export butonuna bas
-                                                                                                                                                                                                           
-                                                                                                                                                                                                            6. **Tebrikler! Belgeselin hazır.**
+                                                                                                                                                                                             6. **Tebrikler! Belgeselin hazır.**
